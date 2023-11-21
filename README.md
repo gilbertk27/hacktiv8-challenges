@@ -6,7 +6,7 @@ These repository is to saves all the training material & submission used during 
 
 ### Phase 0
 
-| Week 1: :hourglass_flowing_sand: | Week 2:  | Week 3:  | Week 4:   |
+| Week 1: :heavy_check_mark: | Week 2: :hourglass_flowing_sand: | Week 3:  | Week 4:   |
 |---|---|---|---|
 | Python basic syntax  | Relational Database & Queries  | Web Scrapping  | Data Visualization  |
 | Conditions & Loops | Data Wrangling  | API & Deployment   | Data Storytelling  |
