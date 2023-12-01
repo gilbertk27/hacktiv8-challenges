@@ -22,6 +22,16 @@ def root():
 def show():
     return data
 
+@app.post("/add")
+def add_item(added_item:int, api_key: str = Header(None)):
+    if api_key is None or api_key != API_KEY:
+        raise HTTPException(status_code=401, detail="Invalid API Key. You are not allowed to add data!")
+    else:
+        id = len(data["duration_sec"].keys())+1
+        data[id] = added_item
+        # data['duration_sec'].append(added_item['minutes']) #kalo data dictionary
+        return f"Item successfully added into your cart with ID {id}"
+
 # delete based value 
 # @app.delete("/del/{value}")
 # def remove_row(inp_value:str, api_key: str = Header(None)):
