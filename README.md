@@ -6,7 +6,7 @@ These repository is to saves all the training material & submission used during 
 
 ### Phase 0
 
-| Week 1: :heavy_check_mark: | Week 2: :heavy_check_mark: | Week 3: :heavy_check_mark:  | Week 4: :hourglass_flowing_sand:   |
+| Week 1: ✅ | Week 2: ✅ | Week 3: ✅  | Week 4: ✅ |
 |---|---|---|---|
 | Python basic syntax  | Relational Database & Queries  | Web Scrapping  | Data Visualization  |
 | Conditions & Loops | Data Wrangling  | API & Deployment   | Data Storytelling  |
@@ -14,9 +14,10 @@ These repository is to saves all the training material & submission used during 
 | Object Oriented Programming  | Advanced SQL Query  | Statistics: Probability, Descriptive, Inferential, and Testing  | Interactive Dashboard - Looker Studio  |
 | Execption Handling & Testing  |   | Case Study  |   |
 
-<!-- :hourglass_flowing_sand: -->
+ 
+<!-- :hourglass_flowing_sand:  ⏳ -->
 
-<!-- :heavy_check_mark:  -->
+<!-- :heavy_check_mark: ✅ -->
 
  <!-- + Python basic syntax 
  + Conditions & Loops
