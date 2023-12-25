@@ -45,7 +45,7 @@ These repository is to saves all the training material & submission used during 
 
 ### Phase 1
 
-| Week 1: ⏳ | Week 2:  | Week 3: | Week 4: |
+| Week 1: ✅ | Week 2: ✅ | Week 3: ⏳ | Week 4: |
 |---|---|---|---|
 | 1. Machine Learning Landscape<br><br> 2.Machine Learning Problem Framing  | 1. KNN & Naive Bayes  | 1. Dimensionality Reduction  | 1. Anomaly Detection  |
 | 1. Math for ML: Vector & Matrix <br><br> 2. Math for ML: Multivariate Calculus (Derivative) | 1. SVM <br><br> 2. Decision Tree & Ensemble Learning | 1. Clustering 1 <br><br> 2. Clustering 2 | 1. Data Balancing <br><br> 2. MLOps |
