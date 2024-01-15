@@ -1,6 +1,6 @@
 # Hacktiv8-challenges
 
-These repository is to saves all the training material & submission used during the Data Scientist Bootcamp at Hacktiv8
+These repository is used to save all the training material & submission during the Data Scientist Bootcamp at Hacktiv8
 
 ## List of Training Syllabus
 
