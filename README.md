@@ -19,113 +19,46 @@ These repository is to saves all the training material & submission used during 
 
 <!-- :heavy_check_mark: ✅ -->
 
- <!-- + Python basic syntax 
- + Conditions & Loops
- + Function & Module 
- + Object Oriented Programming 
- + Execption Handling & Testing <br />
-<br />  -->
-
- <!-- + Relational Database & Queries
- + Data Wrangling
- + Data Processing using Pandas and Python Scripting
- + Advanced SQL Query <br /> -->
-
- <!-- + Web Scrapping
- + API & Deployment
- + Business Knowledge: Business Metrics & Understanding
- + Statistics: Probability, Descriptive, Inferential, and Testing
- + Case Study <br /> -->
-
- <!-- + Data Visualization
- + Data Storytelling
- + Interactive Dashboard - Tableau
- + Interactive Dashboard - Looker Studio
-<br /> -->
-
 ### Phase 1
 
-| Week 1: ✅ | Week 2: ✅ | Week 3: ⏳ | Week 4: |
+| Week 1: ✅ | Week 2: ✅ | Week 3: ✅ | Week 4: ✅ |
 |---|---|---|---|
-| 1. Machine Learning Landscape<br><br> 2.Machine Learning Problem Framing  | 1. KNN & Naive Bayes  | 1. Dimensionality Reduction  | 1. Anomaly Detection  |
-| 1. Math for ML: Vector & Matrix <br><br> 2. Math for ML: Multivariate Calculus (Derivative) | 1. SVM <br><br> 2. Decision Tree & Ensemble Learning | 1. Clustering 1 <br><br> 2. Clustering 2 | 1. Data Balancing <br><br> 2. MLOps |
-| 1. Feature Engineering pt. 1 <br><br> 2. Feature Engineering pt. 2 | 1. Hyperparameter Tuning <br><br> 2. Algoritma Chains & Pipeline  | 1. Time Sereies Part 1 <br><br> 2. Time Sereies Part 2  |  |
-| 1. Linear Regression <br><br> 2. Polynomial and Logistic Regression | 1. Model Deployment: Streamlit <br><br> 2. Model Deployment: Huggingface  | 1. Recommender Engine <br><br> 2. Technical Test |  |
-| 1. Classification Model Evaluation  |  1. Milestone 1 Phase 0 Presentation |  |   |
-
-
-<!-- 
-Week 1
-
-Machine Learning Landscape
-Machine Learning Problem Framing
-1. Machine Learning Landscape<br><br> 2.Machine Learning Problem Framing
-
-Math for ML: Vector & Matrix
-Math for ML: Multivariate Calculus (Derivative)
-1. Math for ML: Vector & Matrix <br><br> 2. Math for ML: Multivariate Calculus (Derivative)
-
-Feature Engineering pt. 1
-Feature Engineering pt. 2
-1. Feature Engineering pt. 1 <br><br> 2. Feature Engineering pt. 2
-
-Linear Regression
-Polynomial and Logistic Regression
-1. Linear Regression <br><br> 2. Polynomial and Logistic Regression
-
-Classification Model Evaluation
-1. Classification Model Evaluation -->
-
-<!-- 
-Week 2
-
-KNN & Naive Bayes
-1. KNN & Naive Bayes
-
-SVM
-Decision Tree & Ensemble Learning
-1. SVM <br><br> 2. Decision Tree & Ensemble Learning
-
-Hyperparameter Tuning
-Algoritma Chains & Pipeline
-1. Hyperparameter Tuning <br><br> 2. Algoritma Chains & Pipeline
-
-Model Deployment: Streamlit
-Model Deployment: Huggingface
-1. Model Deployment: Streamlit <br><br> 2. Model Deployment: Huggingface
-
-Milestone 1 Phase 0 Presentation
-1. Milestone 1 Phase 0 Presentation -->
-
-<!-- 
-
-Week 3
-
-Dimensionality Reduction
-1. Dimensionality Reduction
-
-Clustering 1
-Clustering 2
-1. Clustering 1 <br><br> 2. Clustering 2
-
-Time Sereies Part 1
-Time Sereies Part 2
-1. Time Sereies Part 1 <br><br> 2. Time Sereies Part 2
-
-Recommender Engine
-Technical Test
-1. Recommender Engine <br><br> 2. Technical Test -->
-
-<!-- 
-
-Week 4
-
-Anomaly Detection
-1. Anomaly Detection
-
-Data Balancing
-MLOps
-1. Data Balancing <br><br> 2. MLOps -->
+| Machine Learning Landscape <br><br> Machine Learning Problem Framing  | KNN & Naive Bayes  | Dimensionality Reduction  | Anomaly Detection  |
+| Math for ML: Vector & Matrix <br><br> Math for ML: Multivariate Calculus (Derivative) | SVM <br><br> Decision Tree & Ensemble Learning | Clustering 1 <br><br> Clustering 2 | Data Balancing <br><br> MLOps |
+| Feature Engineering pt. 1 <br><br> Feature Engineering pt. 2 | Hyperparameter Tuning <br><br> Algoritma Chains & Pipeline  | Time Sereies Part 1 <br><br> Time Sereies Part 2  |  |
+| Linear Regression <br><br> Polynomial and Logistic Regression | Model Deployment: Streamlit <br><br> Model Deployment: Huggingface  | Recommender Engine |  |
+| Classification Model Evaluation  | Milestone 1 Phase 0 Presentation |  |   |
 
 ### Phase 2
-    (under construction)
+
+| Week 1: ⏳ | Week 2:  | Week 3:  | Week 4:  |
+|---|---|---|---|
+| Artificial Neural Network: Theory <br><br> Artificial Neural Network: Hands On | Apache Airflow | Apache Spark | |
+| W1D2AM	Training ANN: Part 1 <br><br> Training ANN: Part 2 | Elasticsearch: Part 1 <br><br> Elasticsearch: Part 2 | AWS Glue <br><br> Apache Nifi  | |
+| CNN <br><br> NLP | MongoDB - Part 1 <br><br> MongoDB - Part 2 | | |
+| Data Analytics Fundamental <br><br> Docker | Data Modelling - Part 1 <br><br> Data Modelling - Part 2 | | |
+| | Data Ethics & Data Validation | | Final Project Presentation |
+
+<!-- 
+W1D1AM	Artificial Neural Network: Theory <br><br>
+W1D1PM	Artificial Neural Network: Hands On
+W1D2AM	Training ANN: Part 1 <br><br>
+W1D2PM	Training ANN: Part 2
+W1D3AM	CNN <br><br>
+W1D3PM	NLP
+W1D4AM	Data Analytics Fundamental <br><br>
+W1D4PM	Docker
+W1D5AM	Milestone 2 Phase 1 Presentation
+W2D1PM	Apache Airflow
+W2D2AM	Elasticsearch: Part 1 <br><br>
+W2D2PM	Elasticsearch: Part 2
+W2D3AM	MongoDB - Part 1 <br><br>
+W2D3PM	MongoDB - Part 2
+W2D4AM	Data Modelling - Part 1 <br><br>
+W2D4PM	Data Modelling - Part 2
+W2D5AM	Data Ethics & Data Validation
+W3D1PM	Apache Spark
+W3D2AM	AWS Glue <br><br>
+W3D2PM	Milestone 3 Phase 2 Presentation <br><br>
+W3D2PM	Apache Nifi
+W4D5PM	Final Project Presentation -->
