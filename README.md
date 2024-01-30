@@ -31,7 +31,7 @@ These repository is used to save all the training material & submission during t
 
 ### Phase 2
 
-| Week 1: ⏳ | Week 2:  | Week 3:  | Week 4:  |
+| Week 1: ✅ | Week 2: ✅ | Week 3: ⏳  | Week 4:  |
 |---|---|---|---|
 | Artificial Neural Network: Theory <br><br> Artificial Neural Network: Hands On | Apache Airflow | Apache Spark | Final Project Completion |
 | Training ANN: Part 1 <br><br> Training ANN: Part 2 | Elasticsearch: Part 1 <br><br> Elasticsearch: Part 2 | AWS Glue <br><br> Apache Nifi  | Final Project Completion |
