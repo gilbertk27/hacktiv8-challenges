@@ -1,5 +1,5 @@
 n = 300 # meng inisiasi variabel n dengan value 300
-
+ 
 print(n) # menampilkan value n
 
 n = 1000 # reassignment atau mengisi ulang atau mereplace value n dengan 1000
